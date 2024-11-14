@@ -17,4 +17,4 @@
 2024-10-23 14:32:26 [PID: 1246] [TID: 5690] [TAG: DEBUG] [PACKAGE: app.update] [PRIORITY: DEBUG] Downloading update package version 3.1.4.
 2024-10-23 14:32:27 [PID: 1247] [TID: 5691] [TAG: ERROR] [PACKAGE: app.module] [PRIORITY: ERROR] Failed to load configuration file.
 2024-10-23 14:32:28 [PID: 1248] [TID: 5692] [TAG: INFO] [PACKAGE: app.payment] [PRIORITY: INFO] Refund process completed successfully.
-2024-10-23 14:32:29 [PID: 1249] [TID: 5693] [TAG: DEBUG] [PACKAGE: app.logger] [PRIORITY: DEBUG] Log rotation initiated.
+2024-10-23 14:32:29 [PID: 1249] [TID: 5693] [TAG: DEBUG] [PACKAGE: app.logger] [PRIORITY: DEBUG] Log rotation initiated.[New log entry]: Data appended by Sohail at 2:00 PM\n[New log entry]: Data appended by Sohail at 2:00 PM\n[New log entry]: Data appended by Sohail at 2:00 PM\n
